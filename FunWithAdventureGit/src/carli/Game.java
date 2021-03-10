@@ -53,6 +53,7 @@ public class Game {
 
 	}
 	public static void Intro() {
+		System.out.println("Thank you Carli For helping");
 		System.out.println("You awake in the world of Garyeha");
 		System.out.println("You look around, dazed and confused, but you are sure your in a bad place.");
 		System.out.println("The energy around you feels like death and is almost crushing you as, you take sharp deep breaths in trying to clear your head");
